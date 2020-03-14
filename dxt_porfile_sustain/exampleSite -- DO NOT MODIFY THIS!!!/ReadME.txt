@@ -1,0 +1,1 @@
+Use this folder to understand how HUGO works and what are the file structure it uses for displaying images and content.
